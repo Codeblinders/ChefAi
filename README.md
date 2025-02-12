@@ -58,12 +58,6 @@ Chef AI is an AI-powered web application that provides personalized food recipes
     npm start dev
     ```
 
-5. **Visit the app:**
-
-    Open your browser and go to `http://localhost:3000`
-
-## 🖼️ Screenshots
-
 *(Add screenshots here to showcase your app!)*
 
 
