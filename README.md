@@ -1,2 +1,3 @@
 # ChefAi
-It gives recip
+It gives recipe of the ingredient provided
+
